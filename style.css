@@ -1,0 +1,48 @@
+:root {
+    --accnt-color:#2196F3;
+    --logo-color:#000000;
+    --text-color:#212121;
+}
+    .lolokrya
+{
+    width: 1600px; /* Ширина квадрата */
+    height: 600px; /* Высота квадрата */
+    background-color: #2F303A; /* Цвет квадрата */
+    top: 80px;
+    font-size: 64px;
+}
+main > section > h1 
+{
+    color: rgb(255, 255, 255);
+}
+#nya {
+    background-color: #2196F3; /* Синий цвет */
+    color: #ffffff; /* Белый цвет текста */
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+}
+#nya:hover {
+    background-color: #2195f34e; /* Более тёмный синий при наведении */
+}
+.logitech {
+    color: #2196F3;
+    font-size: 44px;
+}
+.lolohacer {
+    color: #000;
+    font-size: 44px;
+}
+.logitich {
+    color: #2196F3;
+    font-size: 24px;
+}
+.lolohaker {
+    color: #000;
+    font-size: 24px;
+}
+.folout {
+    color: #000000a1;
+}
